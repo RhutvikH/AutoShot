@@ -1,0 +1,7 @@
+numpy
+torch
+ffmpeg-python
+matplotlib
+tensorflow
+tqdm
+ipykernel
